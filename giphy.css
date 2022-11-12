@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+}
+
+#gif-area {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.new-gif {
+    width: 10em;
+    height: 10em;
+    margin: 2em;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
